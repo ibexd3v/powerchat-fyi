@@ -16,7 +16,7 @@
 4. Enter the key name, API key, and provider
 	- Some providers might ask you to enter other details, such as a URL
     
-<img src="./img/quickstart/qs1.PNG" width="300">
+    <img src="./img/quickstart/qs1.PNG" width="300">
 
 5. Navigate to *Configs* tab
 6. Tap the plus sign at the bottom right to add a config
