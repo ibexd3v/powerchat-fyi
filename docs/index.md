@@ -15,19 +15,31 @@
 3. Tap the plus sign at the bottom right corner to add an API key
 4. Enter the key name, API key, and provider
 	- Some providers might ask you to enter other details, such as a URL
-<img src="./img/quickstart/qs1.PNG" width="400">
+<img src="./img/quickstart/qs1.PNG" width="300">
+
 5. Navigate to *Configs* tab
 6. Tap the plus sign at the bottom right to add a config
 7. Choose your *Model Class* (Claude, DeepSeek, Gemini, etc.)
+<img src="./img/quickstart/qs2.PNG" width="300">
+
 8. Doing so will take you to the config view, where you can set the config name, API key, and tweak parameters
 	- You must set the API key
 	- Provider of the API key must match the provider of the model, otherwise the key will not show up in the API key picker
+<img src="./img/quickstart/qs3.PNG" width="300">
+	
 9. Once configured, exit out of the config view
+<img src="./img/quickstart/qs4.PNG" width="300">
+
 10. Navigate to *Chats* tab
 11. Tap the plus sign at the bottom right to create a new chat
-12. Choose a text or image config
+<img src="./img/quickstart/qs5.PNG" width="300">
+
+12. Choose the config you created.
 	- (Optional) Add a chat title
-	- (Optional) Choose a folder for the chat
+	- (Optional) If you have created a folder, choose a folder for the chat
+<img src="./img/quickstart/qs6.PNG" width="300">
+<img src="./img/quickstart/qs7.PNG" width="300">
+
 13. Tap the checkmark to start the chat
 14. Enter your prompt in the message field at the bottom
 15. Tap on the *Send* button (up arrow) to send the prompt
