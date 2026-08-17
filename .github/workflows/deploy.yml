@@ -36,7 +36,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .vitepress/dist # This must point to where your dist folder is generated
+          path: docs/.vitepress/dist
 
   deploy:
     environment:
