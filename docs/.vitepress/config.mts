@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/powerchat-fyi/',
   title: "Powerchat",
   description: "Documentation for Powerchat, a privacy-first BYOK AI chat app",
   themeConfig: {
