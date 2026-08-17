@@ -54,8 +54,3 @@ PowerChat is a privacy-first, bring-your-own-key AI chat app with model configur
 - Enter your prompt in the message field at the bottom
 - Tap on the *Send* button (up arrow) to send the prompt
 	- (Optional) If you have selected an image model, you can hold the send button to pick the output modality of the model (text or image)
-
-	<video controls width="100%">
-  	<source src="./demos/quickstart.MP4" type="video/mp4">
-  		Your browser does not support the video tag.
-	</video>
