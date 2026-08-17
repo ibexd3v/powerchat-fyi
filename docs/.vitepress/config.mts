@@ -10,7 +10,7 @@ export default defineConfig({
     logo: '/icon.png',
 
     nav: [
-      text: 'Powerchat', link: '/'      
+      { text: 'Powerchat', link: '/' },
     ],
     
     sidebar: [
