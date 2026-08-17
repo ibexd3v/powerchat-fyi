@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 PowerChat is a privacy-first, bring-your-own-key AI chat app with model configuration options and local per-folder customizable RAG databases. It can be used to generate text and images using cloud models (Gemini, Deepseek, etc.) and local models (through Ollama), or any OpenAI compatible endpoint.
 
 
