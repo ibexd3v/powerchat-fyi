@@ -8,6 +8,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
 
     logo: '/icon.png',
+
+    nav: [
+      text: 'Powerchat', link: '/'      
+    ]
     
     sidebar: [
       {
