@@ -11,6 +11,6 @@ Powerchat allows you to create per-folder RAG databases, which can be used to sh
 - (Optional) Tweak the RAG settings
 - Chats created in the folder are now persisted in the RAG database (unless you choose to not persist a chat in *Chat Settings*)
 
-<video autoplay loop muted playsinline width="100%">
+<video muted width="100%">
   <source src="./demos/rag.MP4" type="video/mp4">
 </video>
