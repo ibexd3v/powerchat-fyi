@@ -6,6 +6,9 @@ export default defineConfig({
   description: "Documentation for Powerchat, a privacy-first BYOK AI chat app",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+
+    logo: '/icon.png',
+    
     sidebar: [
       {
         text: 'Getting Started',
