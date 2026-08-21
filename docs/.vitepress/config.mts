@@ -21,10 +21,18 @@ export default defineConfig({
           { text: 'RAG', link: '/rag' },
         ]
       },
+
       {
         text: 'Legal',
         items: [
           { text: 'Privacy Policy', link: '/privacy-policy' },
+        ]
+      },
+
+      {
+        text: 'Contact Us',
+        items: [
+          { text: 'Email', link: '/contact-us' },
         ]
       },
 
