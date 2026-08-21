@@ -20,7 +20,14 @@ export default defineConfig({
           { text: 'Quickstart', link: '/' },
           { text: 'RAG', link: '/rag' },
         ]
-      }
+      },
+      {
+        text: 'Legal',
+        items: [
+          { text: 'Privacy Policy', link: '/privacy-policy' },
+        ]
+      },
+
     ],
 
     socialLinks: [
